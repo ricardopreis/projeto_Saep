@@ -19,3 +19,18 @@ li{
     font-size: 22px;
     
 }
+.links{
+    text-align:center;
+    font-size: 40px;
+
+}
+.tabela{
+    text-align: center;
+    margin-left: 33%;
+}
+.ricardo{
+    width: 50%;
+  margin: auto;
+    background-color: skyblue;
+    border-radius: 5% ;
+}
